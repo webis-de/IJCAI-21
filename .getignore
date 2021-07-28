@@ -1,0 +1,30 @@
+###############################
+# Laguage
+#==Python
+
+##############################
+# Data and outputs
+data/*
+!data/.gitkeep
+!data/social-bias-lexicon.json
+
+data/word-vectors/*
+!data/word-vectors
+!data/word-vectors/.gitkeep
+
+output/*
+!output/.gitkeep
+
+output/embedding_model_evaluation/*
+!output/embedding_model_evaluation/
+!output/embedding_model_evaluation/.gitkeep
+
+##############################
+# Misc
+tinker.ipynb
+.python-version
+.node-version
+
+##############################
+# Editors
+.vscode

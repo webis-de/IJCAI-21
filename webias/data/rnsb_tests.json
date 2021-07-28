@@ -1,0 +1,25 @@
+{
+    "test1": {
+        "case_study": "National Origin Identity",
+        "identity_words": [
+            "swedish",
+            "irish",
+            "mexican",
+            "chinese",
+            "filipino",
+            "german",
+            "english",
+            "french",
+            "norwegian",
+            "american",
+            "indian",
+            "dutch",
+            "russian",
+            "scottish",
+            "italian"
+        ],
+        "word2vec_result": 0.1945,
+        "glove_result": 0.6225,
+        "conceptnet_result": 0.0102
+    }
+}
