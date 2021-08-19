@@ -10,5 +10,12 @@ authors:
     family-names: Wachsmuth
     given-names: Henning
 date-released: 2021-08-19
+doi: 10.24963/ijcai.2021/77
+keywords:
+  - bias
+  - social bias
+  - machine learning
+  - nlp
+  - natural langauge process
 version: "2021.08.19"
 license: MIT

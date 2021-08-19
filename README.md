@@ -1,15 +1,18 @@
 # Bias Silhouette Analysis
-This repository contains the code to reproduce the results of the paper ["Bias Silhouette Analysis: Towards Assessing the Quality of Bias Metrics for Word Embedding Models"](#), as presented at the [IJCAI 2021](https://ijcai-21.org/) conference. Please find the full reference below:
+This repository contains the code to reproduce the results of the paper ["Bias Silhouette Analysis: Towards Assessing the Quality of Bias Metrics for Word Embedding Models"](https://www.ijcai.org/proceedings/2021/77), as presented at the [IJCAI 2021](https://ijcai-21.org/) conference. Please find the full reference below:
 
 ```
-@inproceedings{spliethover-wachsmuth-2021,
-    title = "Bias Silhouette Analysis: Towards Assessing the Quality of Bias Metrics for Word Embedding Models",
-    author = {Splieth{\"o}ver, Maximilian and Wachsmuth, Henning},
-    booktitle = "Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, {IJCAI-21}",
-    month = aug,
-    year = "2021",
-    address = "Online",
-    publisher = "International Joint Conferences on Artificial Intelligence Organization"
+@InProceedings{spliethoever:2021,
+  title     = {Bias Silhouette Analysis: Towards Assessing the Quality of Bias Metrics for Word Embedding Models},
+  author    = {Maximilian Splieth{\"o}ver and Henning Wachsmuth},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on
+Artificial Intelligence, {IJCAI-21}},  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Zhi-Hua Zhou},
+  pages     = {552--559},
+  year      = {2021},
+  month     = {aug},
+  doi       = {10.24963/ijcai.2021/77},
+  url       = {https://doi.org/10.24963/ijcai.2021/77},
 }
 ```
 
